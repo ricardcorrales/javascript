@@ -26,6 +26,9 @@
     "not IE 11"
   ],
   "dependencies": {
-    "http-server": "^0.12.3"
+    "css-loader": "^6.7.3",
+    "html-loader": "^4.2.0",
+    "http-server": "^0.12.3",
+    "style-loader": "^3.3.1"
   }
 }
